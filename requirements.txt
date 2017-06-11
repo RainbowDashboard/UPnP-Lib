@@ -1,0 +1,3 @@
+UPnP==1.0
+gevent==1.2.2
+ipgetter==0.6
