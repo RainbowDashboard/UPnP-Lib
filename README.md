@@ -1,7 +1,6 @@
-# UPnP-Lib
-Forward a Port with UPnP and pure Python script
+*The installtion require pip*
 
-Import UPnP and use this commands:
+import UPnP and use this command:
 
 For open port use:
 UPnP.port2forward(port, name)
@@ -11,6 +10,7 @@ name => the name you want to the port forward
 ~! If you choose to not pass a the params the defualt settings is por t=> 4444 name=>Deploy by UPnP-Lib
 
 For retrieve you public IP use:
+
 UPnP.show_IP()
 
 
